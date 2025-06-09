@@ -1,4 +1,4 @@
-# Rust File Manager
+# TerMenu
 
 A simple command-line file manager written in Rust. This application allows users to navigate through directories, create files and folders, and manage files using clipboard operations (copy, cut, paste).
 
